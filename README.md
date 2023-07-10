@@ -28,6 +28,8 @@
 
 **NOTE: Fastertransformer backend is currently undergoing restructuring. Build instructions are only tested with Triton container versions <= `23.04`**. 
 
+**It's a stable branch here, for more you can see the `dev-llama-backend` branch.**
+
 # 1. FasterTransformer Backend
 
 **The triton faster transformer backend works as an interface to call FasterTransformer in triton.**
